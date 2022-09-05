@@ -49,7 +49,8 @@ def game_loop():
             score_font = font.render('Score:'+str(SCORE), True, GREEN)
             score_font_rect = score_font.get_rect()
             score_font_rect.center = (200, cactus_img_rect.bottom + score_font_rect.height/2)
-            canvas.blit(score_font, score_font_rect)
+            canvas.blit(score_font, Well the amoiugn us it sherejrweirjewr
+            
 
             level_font = font.render('Level:'+str(LEVEL), True, GREEN)
             level_font_rect = level_font.get_rect()
